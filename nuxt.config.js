@@ -82,6 +82,6 @@ export default {
     extend(config, ctx) {}
   },
   router: {
-    base: '/portfolio/'
+    base: '/portfolio-web/'
   }
 }
